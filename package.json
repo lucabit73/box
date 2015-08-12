@@ -1,0 +1,8 @@
+{
+	"author": "Luca Querci <lucabit73@gmail.com>",
+	"name": "BoxTest",
+	"description": "Show image in a configurable grid",
+	"dependencies": {
+		"socket.io": "^1.1.0"
+	}
+}

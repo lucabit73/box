@@ -1,0 +1,10 @@
+{
+	"box_per_col": 4,
+	"full_box_per_row": 3,
+	"box_margin": 3,
+	"box_time_default": 1200,
+	"box_transition_default": 1000,
+	"box_time_other": 500,
+	"box_transition_other": 450,
+	"box_effect": "scale" 
+}

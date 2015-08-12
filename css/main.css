@@ -1,0 +1,52 @@
+body {
+    margin:0;
+    padding:0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center; 
+}
+
+.hide {
+	display: none;
+}
+
+.box{
+    display: inline;
+    float: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /*z-index: -2;*/
+}
+
+.bg_created{
+    z-index: -1;
+}
+
+.transp{
+    opacity: 0.3;
+}
+
+#myCanvas {
+	
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+#logo {
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width:40%;
+    height:auto;
+    z-index: 10;
+}
